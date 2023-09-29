@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "stripeids",
+  "info": {
+    "singularName": "stripeid",
+    "pluralName": "stripeids",
+    "displayName": "stripeid"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "stripeid": {
+      "type": "string"
+    },
+    "products": {
+      "type": "json"
+    }
+  }
+}

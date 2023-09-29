@@ -1,0 +1,3 @@
+postgres://nikestore_4wpc_user:7x4vLf5DnYd02RqtBDaGFMdyM3uOoCMx@dpg-ck5gle6ru70s73dl34r0-a.singapore-postgres.render.com/nikestore_4wpc
+
+dpg-ck5gle6ru70s73dl34r0-a.singapore-postgres.render.com
